@@ -1,7 +1,7 @@
 # Academic-Details_APIs
 
 ## Description
-An collection of apis to get academic status, academic years, academic advisors
+A collection of apis to get academic status, academic years, academic advisors
  
 ## Setup Instructions
 Postman
