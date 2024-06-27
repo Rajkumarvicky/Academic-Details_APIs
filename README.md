@@ -1,4 +1,4 @@
-# Academic-Details_APIs
+# Student-Academic_Details_APIs
 
 ## Description
 A collection of apis to get academic status, academic years, academic advisors
